@@ -22,3 +22,9 @@ ja ja ja
    `git commit -m "Tik pred shranjevanjem na strežnik"`
    `git push origin master`
 4. Poglej, kako izgledajo datoteke na strežniku. Se je v navodilih pojavilo kaj novega?
+5. poženi `git pull origin master`, da snameš ta commit! Čestitke za opravljen kurz.
+
+
+
+% tega ne briši
+magicnabeseda
