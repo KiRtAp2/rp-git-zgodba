@@ -1,5 +1,7 @@
 inhibit-stiridva
 
+ja ja ja
+
 # Nadaljnja navodila
 
 1. Sedaj imaš lokalno kopijo repozitorija.
